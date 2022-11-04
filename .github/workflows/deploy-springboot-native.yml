@@ -10,7 +10,7 @@ on:
 
 env:
   # Replace with your registry URL
-  REGISTRY_URL: <YOUR_REGISTRY_URL>
+  REGISTRY_URL: javaruntimesregistryvscode.azurecr.io
   PROJECT: java-runtimes
   RESOURCE_GROUP: rg-java-runtimes
 
